@@ -11,7 +11,7 @@ const Error = () => {
           </Link>
       </div>
     </section>
-  )
+  ) 
 }
 
 export default Error
